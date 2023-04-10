@@ -1,2 +1,2 @@
 # CodewithHarry
-GitHub Study fromCodeWithHarry
+GitHub Study from CodeWithHarry
